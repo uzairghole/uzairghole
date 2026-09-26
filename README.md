@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Uzair Ghole
 
-<!--
-**uzairghole/uzairghole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 TY BSc IT Student | Aspiring Data Science Professional
 
-Here are some ideas to get you started:
+I'm a BSc IT student passionate about **Python, Data Science, Data Analysis, and Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently building my skills through practical learning, coding practice, and real-world datasets.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/uzairghole">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🐍 Programming & Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python">
+</p>
+
+**Python • NumPy • Pandas • Matplotlib • Seaborn**
+
+### 🗄️ Database & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Tools">
+</p>
+
+**SQL • MySQL • Git • GitHub • VS Code • Anaconda**
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" alt="Web Technologies">
+</p>
+
+**HTML • CSS • JavaScript • React • Node.js**
+
+---
+
+## 🚀 My Learning Path
+
+```text
+Python
+   ↓
+NumPy
+   ↓
+Pandas
+   ↓
+Data Analysis
+   ↓
+Data Visualization
+   ↓
+SQL
+   ↓
+Machine Learning
+   ↓
+Data Science
