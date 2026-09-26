@@ -1,20 +1,17 @@
-
+````markdown
 <div align="center">
 
 # 👋 Hi, I'm Uzair Ghole
 
-### 🎓 TY BSc IT Student
-### 📊 Aspiring Data Science Professional
+### 🎓 TY BSc IT Student | 📊 Aspiring Data Science Professional
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Python+%7C+NumPy+%7C+Pandas;Data+Analysis+%7C+Visualization;SQL+%7C+Machine+Learning;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%7C+NumPy+%7C+Pandas;Data+Analysis+%7C+Data+Visualization;SQL+%7C+Machine+Learning;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" alt="Typing Animation">
 </p>
 
-<p>
-  <a href="https://github.com/uzairghole">
-    <img src="https://img.shields.io/badge/GitHub-Uzair%20Ghole-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<a href="https://github.com/uzairghole">
+<img src="https://img.shields.io/badge/GitHub-Uzair%20Ghole-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
@@ -22,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a **Third Year BSc IT student** with a growing interest in **Data Science, Python and Data Analysis**.
+🎓 **TY BSc IT Student** with a growing interest in **Data Science, Python, Data Analysis, and Machine Learning**.
 
-I enjoy learning by writing code, working with datasets, exploring patterns in data, and building practical projects.
+I enjoy learning through practical coding, working with datasets, exploring patterns in data, and building useful projects.
 
-### 🚀 Currently focused on
+### 🚀 Currently Focused On
 
 - 🐍 Python Programming
 - 🔢 NumPy
@@ -36,11 +33,11 @@ I enjoy learning by writing code, working with datasets, exploring patterns in d
 - 🗄️ SQL
 - 🤖 Machine Learning
 
-> **My goal:** Build strong technical fundamentals and gradually grow into a Data Science professional.
+> **Learn → Practice → Build → Analyze → Improve**
 
 ---
 
-## 🧰 Technology Stack
+## 🧰 Tech Stack
 
 ### 🐍 Programming
 
@@ -50,30 +47,24 @@ I enjoy learning by writing code, working with datasets, exploring patterns in d
 
 `Python`
 
----
-
 ### 📊 Data Science & Analytics
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
 </p>
 
-**NumPy • Pandas • Matplotlib • Seaborn • Exploratory Data Analysis**
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `EDA`
 
----
-
-### 🗄️ Database & Developer Tools
+### 🗄️ Database & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" height="55" alt="MySQL Git GitHub VS Code">
 </p>
 
-**SQL • MySQL • Git • GitHub • VS Code • Anaconda**
-
----
+`SQL` `MySQL` `Git` `GitHub` `VS Code` `Anaconda`
 
 ### 🌐 Web Development
 
@@ -81,55 +72,44 @@ I enjoy learning by writing code, working with datasets, exploring patterns in d
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" height="55" alt="Web Development">
 </p>
 
-**HTML • CSS • JavaScript • React • Node.js**
+`HTML` `CSS` `JavaScript` `React` `Node.js`
 
 ---
 
 ## 🧠 My Data Science Roadmap
 
-<div align="center">
-
 ```text
-                🐍 PYTHON
-                    │
-                    ▼
-                 🔢 NUMPY
-                    │
-                    ▼
-                 🐼 PANDAS
-                    │
-                    ▼
-             📊 DATA ANALYSIS
-                    │
-                    ▼
-          📈 DATA VISUALIZATION
-                    │
-                    ▼
-                 🗄️ SQL
-                    │
-                    ▼
-          🤖 MACHINE LEARNING
-                    │
-                    ▼
-             🧠 DATA SCIENCE
+🐍 Python
+    ↓
+🔢 NumPy
+    ↓
+🐼 Pandas
+    ↓
+📊 Data Analysis
+    ↓
+📈 Data Visualization
+    ↓
+🗄️ SQL
+    ↓
+🤖 Machine Learning
+    ↓
+🧠 Data Science
 ````
-
-</div>
 
 ---
 
 ## 📚 Currently Learning
 
-| Technology          | What I'm Learning                    |
-| ------------------- | ------------------------------------ |
-| 🐍 Python           | Programming, logic & problem solving |
-| 🔢 NumPy            | Numerical computing & arrays         |
-| 🐼 Pandas           | Data manipulation & analysis         |
-| 📊 Data Analysis    | Cleaning, EDA & insights             |
-| 📈 Matplotlib       | Data visualization                   |
-| 🎨 Seaborn          | Statistical visualization            |
-| 🗄️ SQL             | Queries, filtering & databases       |
-| 🤖 Machine Learning | ML fundamentals & algorithms         |
+| Technology          | Focus                         |
+| ------------------- | ----------------------------- |
+| 🐍 Python           | Programming & Problem Solving |
+| 🔢 NumPy            | Numerical Computing           |
+| 🐼 Pandas           | Data Manipulation             |
+| 📊 Data Analysis    | Cleaning & EDA                |
+| 📈 Matplotlib       | Visualization                 |
+| 🎨 Seaborn          | Statistical Visualization     |
+| 🗄️ SQL             | Queries & Databases           |
+| 🤖 Machine Learning | ML Fundamentals               |
 
 ---
 
@@ -137,17 +117,11 @@ I enjoy learning by writing code, working with datasets, exploring patterns in d
 
 ### 🐍 Python Data Analysis
 
-Working with Python libraries to understand and analyze real datasets.
+Working with Python libraries and datasets for data cleaning, analysis, exploration, and visualization.
 
-**Tools:**
-
-`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn`
-
----
+**Tools:** `Python` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
 ### 🛒 Retail Store Data Analysis
-
-A practical data-analysis workflow involving:
 
 ```text
 Raw Dataset
@@ -165,18 +139,9 @@ Insights
 
 **Tools:** `Python` `Pandas` `Matplotlib` `Seaborn`
 
----
-
 ### 🤖 AI & Machine Learning Practice
 
-Academic and practical work focused on:
-
-* Artificial Intelligence concepts
-* Machine Learning fundamentals
-* Dataset preparation
-* Data preprocessing
-* Exploratory Data Analysis
-* Practical Python implementation
+Academic and practical work covering AI concepts, machine learning fundamentals, data preparation, preprocessing, and analysis.
 
 ---
 
@@ -184,9 +149,9 @@ Academic and practical work focused on:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=uzairghole&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Uzair GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=uzairghole&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Uzair GitHub Stats" height="180">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairghole&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairghole&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180">
 
 </div>
 
@@ -196,7 +161,7 @@ Academic and practical work focused on:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairghole&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=uzairghole&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
@@ -222,17 +187,16 @@ Academic and practical work focused on:
 
 ---
 
-## 🎯 2026 Learning Goals
+## 🎯 My Goals
 
 ```text
-[✓] Learn Python Fundamentals
-[→] Strengthen NumPy
-[→] Master Pandas
-[→] Improve Data Analysis
-[→] Learn SQL
-[→] Build Real-World Projects
-[→] Learn Machine Learning
-[→] Build a Strong Data Science Portfolio
+✓ Strengthen Python
+✓ Master NumPy & Pandas
+✓ Improve Data Analysis
+✓ Learn SQL
+→ Build Real-World Projects
+→ Learn Machine Learning
+→ Build a Strong Data Science Portfolio
 ```
 
 ---
@@ -241,11 +205,9 @@ Academic and practical work focused on:
 
 <div align="center">
 
-### Learn → Practice → Build → Analyze → Improve
+### Learn → Practice → Build → Analyze → Improve → Repeat 🚀
 
 </div>
-
-I believe consistent practice and practical projects are the best way to turn knowledge into real skills.
 
 ---
 
@@ -284,4 +246,3 @@ I believe consistent practice and practical projects are the best way to turn kn
 
 </div>
 ```
-
