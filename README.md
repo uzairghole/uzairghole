@@ -9,6 +9,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Python+Developer;Data+Analysis+%7C+Data+Visualization;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;SQL+%7C+Machine+Learning;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" alt="Typing Animation">
 </p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,mysql,git,github,vscode" height="55" alt="Tech Stack">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
 <a href="https://github.com/uzairghole">
 <img src="https://img.shields.io/badge/GitHub-Uzair%20Ghole-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
@@ -110,7 +121,7 @@ I enjoy learning through practical coding, working with datasets, analyzing data
 | 🐍 Python           | Programming & Problem Solving |
 | 🔢 NumPy            | Numerical Computing           |
 | 🐼 Pandas           | Data Manipulation             |
-| 📊 Data Analysis    | Cleaning & EDA                |
+| 📊 Data Analysis    | Data Cleaning & EDA           |
 | 📈 Matplotlib       | Data Visualization            |
 | 🎨 Seaborn          | Statistical Visualization     |
 | 🗄️ SQL             | Queries & Databases           |
