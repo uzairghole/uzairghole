@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="0.55" stop-color="#f4f8ff"/>
+<stop offset="1" stop-color="#eef2ff"/>
+</linearGradient>
+<linearGradient id="accent" x1="0" x2="1">
+<stop offset="0" stop-color="#2563eb"/>
+<stop offset="0.5" stop-color="#4f46e5"/>
+<stop offset="1" stop-color="#7c3aed"/>
+</linearGradient>
+<pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+<circle cx="3" cy="3" r="1.7" fill="#2563eb" opacity=".10"/>
+</pattern>
+</defs>
+<rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="300" fill="url(#dots)"/>
+<circle cx="90" cy="65" r="150" fill="#dbeafe" opacity=".55"/>
+<circle cx="1120" cy="245" r="180" fill="#e0e7ff" opacity=".65"/>
+<path d="M0 252 C180 205 340 292 560 235 S930 205 1200 245 L1200 300 L0 300Z" fill="#dbeafe" opacity=".62"/>
+<path d="M0 260 C220 220 390 292 620 245 S960 215 1200 255" fill="none" stroke="#a5b4fc" stroke-width="3" opacity=".8"/>
+<text x="600" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" font-style="italic" fill="url(#accent)">Uzair Ghole</text>
+<path d="M430 143 Q600 170 770 143" fill="none" stroke="#60a5fa" stroke-width="4" stroke-linecap="round"/>
+<text x="600" y="194" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="3" fill="#334155">TY BSc IT  •  DATA SCIENCE  •  PYTHON</text>
+<text x="600" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" letter-spacing="1.5" fill="#64748b">Data Analysis • Visualization • Machine Learning</text>
+<circle cx="1045" cy="58" r="5" fill="#60a5fa"/><circle cx="1067" cy="58" r="5" fill="#818cf8"/><circle cx="1089" cy="58" r="5" fill="#c4b5fd"/>
+</svg>
