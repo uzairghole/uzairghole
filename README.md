@@ -173,19 +173,6 @@ Academic and practical learning covering:
 * Unsupervised Learning
 * Data Analysis
 
----
-
-## 🎯 My Goals
-
-```text
-✓ Strengthen Python
-✓ Master NumPy & Pandas
-✓ Improve Data Analysis
-✓ Learn SQL
-→ Build Real-World Projects
-→ Learn Machine Learning
-→ Build a Strong Data Science Portfolio
-```
 
 ---
 
