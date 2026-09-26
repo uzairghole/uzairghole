@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Uzair Ghole Profile Banner">
-
-</div>
-
-<div align="center">
-
 # 👋 Hi, I'm Uzair Ghole
 
 ### 🎓 TY BSc IT Student | 📊 Aspiring Data Science Professional
