@@ -69,7 +69,7 @@ I enjoy learning through practical coding, working with datasets, exploring patt
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" height="55" alt="Web Development">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" height="55" alt="HTML CSS JavaScript React Node.js">
 </p>
 
 `HTML` `CSS` `JavaScript` `React` `Node.js`
@@ -105,8 +105,8 @@ I enjoy learning through practical coding, working with datasets, exploring patt
 | 🐍 Python           | Programming & Problem Solving |
 | 🔢 NumPy            | Numerical Computing           |
 | 🐼 Pandas           | Data Manipulation             |
-| 📊 Data Analysis    | Cleaning & EDA                |
-| 📈 Matplotlib       | Visualization                 |
+| 📊 Data Analysis    | Data Cleaning & EDA           |
+| 📈 Matplotlib       | Data Visualization            |
 | 🎨 Seaborn          | Statistical Visualization     |
 | 🗄️ SQL             | Queries & Databases           |
 | 🤖 Machine Learning | ML Fundamentals               |
@@ -117,9 +117,17 @@ I enjoy learning through practical coding, working with datasets, exploring patt
 
 ### 🐍 Python Data Analysis
 
-Working with Python libraries and datasets for data cleaning, analysis, exploration, and visualization.
+Working with Python libraries and datasets for:
+
+* Data Cleaning
+* Data Exploration
+* Exploratory Data Analysis
+* Data Visualization
+* Finding useful insights
 
 **Tools:** `Python` `NumPy` `Pandas` `Matplotlib` `Seaborn`
+
+---
 
 ### 🛒 Retail Store Data Analysis
 
@@ -139,51 +147,19 @@ Insights
 
 **Tools:** `Python` `Pandas` `Matplotlib` `Seaborn`
 
+---
+
 ### 🤖 AI & Machine Learning Practice
 
-Academic and practical work covering AI concepts, machine learning fundamentals, data preparation, preprocessing, and analysis.
+Academic and practical learning covering:
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=uzairghole&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Uzair GitHub Stats" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairghole&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180">
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=uzairghole&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=uzairghole&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies">
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairghole&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
-
-</div>
+* Artificial Intelligence
+* Machine Learning Fundamentals
+* Data Preparation
+* Data Preprocessing
+* Supervised Learning
+* Unsupervised Learning
+* Data Analysis
 
 ---
 
