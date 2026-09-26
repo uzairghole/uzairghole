@@ -6,7 +6,7 @@
 ### 🎓 TY BSc IT Student | 📊 Aspiring Data Science Professional
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%7C+NumPy+%7C+Pandas;Data+Analysis+%7C+Data+Visualization;SQL+%7C+Machine+Learning;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Python+Developer;Data+Analysis+%7C+Data+Visualization;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;SQL+%7C+Machine+Learning;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" alt="Typing Animation">
 </p>
 
 <a href="https://github.com/uzairghole">
@@ -19,33 +19,30 @@
 
 ## 👨‍💻 About Me
 
-🎓 **TY BSc IT Student** with a growing interest in **Data Science, Python, Data Analysis, and Machine Learning**.
+🎓 I'm a **TY BSc IT student** interested in **Data Science, Python, Data Analysis, and Machine Learning**.
 
-I enjoy learning through practical coding, working with datasets, exploring patterns in data, and building useful projects.
+I enjoy learning through practical coding, working with datasets, analyzing data, and building projects that improve my technical skills.
 
-### 🚀 Currently Focused On
-
-- 🐍 Python Programming
-- 🔢 NumPy
-- 🐼 Pandas
-- 📊 Data Analysis
-- 📈 Data Visualization
-- 🗄️ SQL
-- 🤖 Machine Learning
+- 🐍 Learning and improving **Python**
+- 📊 Exploring **Data Analysis & Visualization**
+- 🐼 Working with **Pandas & NumPy**
+- 🗄️ Learning **SQL & Databases**
+- 🤖 Exploring **Machine Learning**
+- 💻 Building projects and maintaining my GitHub
 
 > **Learn → Practice → Build → Analyze → Improve**
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Languages & Technologies
 
-### 🐍 Programming
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python">
+<img src="https://skillicons.dev/icons?i=python,javascript" height="55" alt="Python JavaScript">
 </p>
 
-`Python`
+`Python` `JavaScript`
 
 ### 📊 Data Science & Analytics
 
@@ -58,21 +55,29 @@ I enjoy learning through practical coding, working with datasets, exploring patt
 
 `NumPy` `Pandas` `Matplotlib` `Seaborn` `EDA`
 
-### 🗄️ Database & Tools
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" height="55" alt="MySQL Git GitHub VS Code">
+<img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL">
 </p>
 
-`SQL` `MySQL` `Git` `GitHub` `VS Code` `Anaconda`
+`SQL` `MySQL`
 
-### 🌐 Web Development
+### 🌐 Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" height="55" alt="HTML CSS JavaScript React Node.js">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" height="55" alt="HTML CSS React Node.js">
 </p>
 
-`HTML` `CSS` `JavaScript` `React` `Node.js`
+`HTML` `CSS` `React` `Node.js`
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="55" alt="Git GitHub VS Code">
+</p>
+
+`Git` `GitHub` `VS Code` `Anaconda`
 
 ---
 
@@ -105,7 +110,7 @@ I enjoy learning through practical coding, working with datasets, exploring patt
 | 🐍 Python           | Programming & Problem Solving |
 | 🔢 NumPy            | Numerical Computing           |
 | 🐼 Pandas           | Data Manipulation             |
-| 📊 Data Analysis    | Data Cleaning & EDA           |
+| 📊 Data Analysis    | Cleaning & EDA                |
 | 📈 Matplotlib       | Data Visualization            |
 | 🎨 Seaborn          | Statistical Visualization     |
 | 🗄️ SQL             | Queries & Databases           |
@@ -127,8 +132,6 @@ Working with Python libraries and datasets for:
 
 **Tools:** `Python` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
----
-
 ### 🛒 Retail Store Data Analysis
 
 ```text
@@ -146,8 +149,6 @@ Insights
 ```
 
 **Tools:** `Python` `Pandas` `Matplotlib` `Seaborn`
-
----
 
 ### 🤖 AI & Machine Learning Practice
 
@@ -199,18 +200,6 @@ Academic and practical learning covering:
 💻 Development Projects
 📚 Academic Work
 ```
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/uzairghole">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
 
 ---
 
