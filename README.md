@@ -197,7 +197,6 @@ Academic and practical learning covering:
 📊 Data Analysis
 📈 Data Visualization
 🧮 NumPy & Pandas
-🗄️ SQL Practice
 🤖 AI & Machine Learning
 💻 Development Projects
 📚 Academic Work
