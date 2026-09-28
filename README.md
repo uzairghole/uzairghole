@@ -33,23 +33,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 I'm a **TY BSc IT student** interested in **Data Science, Python, Data Analysis, and Machine Learning**.
-
-I enjoy learning through practical coding, working with datasets, analyzing data, and building projects that improve my technical skills.
-
-- 🐍 Learning and improving **Python**
-- 📊 Exploring **Data Analysis & Visualization**
-- 🐼 Working with **Pandas & NumPy**
-- 🗄️ Learning **SQL & Databases**
-- 🤖 Exploring **Machine Learning**
-- 💻 Building projects and maintaining my GitHub
-
-> **Learn → Practice → Build → Analyze → Improve**
-
----
-
 ## 🧰 Languages & Technologies
 
 ### 💻 Programming Languages
