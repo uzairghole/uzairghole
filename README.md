@@ -1,120 +1,83 @@
-<div align="center">
-
-<img src="./assets/profile-banner.svg" width="100%" alt="Uzair Ghole Profile Banner">
-
-</div>
-
-<div align="center">
-
 # 👋 Hi, I'm Uzair Ghole
 
 ### 🎓 TY BSc IT Student | 📊 Aspiring Data Science Professional
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Python+Developer;Data+Analysis+%7C+Data+Visualization;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;SQL+%7C+Machine+Learning;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" alt="Typing Animation">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Python+for+Data+Science;NumPy+%7C+Pandas;Data+Analysis+%7C+EDA;Matplotlib+%7C+Seaborn;SQL+%7C+Machine+Learning;Learning+%E2%80%A2+Building+%E2%80%A2+Analyzing" alt="Typing Animation">
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,mysql,git,github,vscode" height="55" alt="Tech Stack">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql,sklearn" height="55" alt="Data Science Technologies">
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
-
-<a href="https://github.com/uzairghole">
-<img src="https://img.shields.io/badge/GitHub-Uzair%20Ghole-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 I'm a **TY BSc IT student** interested in **Data Science, Python, Data Analysis, and Machine Learning**.
+I'm a **TY BSc IT student** focused on **Data Science, Python, Data Analysis, and Machine Learning**.
 
-I enjoy learning through practical coding, working with datasets, analyzing data, and building projects that improve my technical skills.
+I learn through practical coding, real datasets, exploratory data analysis, visualization, and machine learning fundamentals.
 
-- 🐍 Learning and improving **Python**
-- 📊 Exploring **Data Analysis & Visualization**
-- 🐼 Working with **Pandas & NumPy**
-- 🗄️ Learning **SQL & Databases**
-- 🤖 Exploring **Machine Learning**
-- 💻 Building projects and maintaining my GitHub
-
-> **Learn → Practice → Build → Analyze → Improve**
+- 🐍 Python for Data Science
+- 🔢 NumPy for numerical computing
+- 🐼 Pandas for data manipulation
+- 📊 Data Cleaning & Exploratory Data Analysis
+- 📈 Matplotlib & Seaborn for visualization
+- 🗄️ SQL & databases
+- 🤖 Machine Learning fundamentals
 
 ---
 
-## 🧰 Languages & Technologies
+## 🧰 Data Science Skills
 
-### 💻 Programming Languages
+### 🐍 Programming
+`Python`
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript" height="55" alt="Python JavaScript">
-</p>
+### 📊 Data Analysis
+`NumPy` `Pandas` `Data Cleaning` `EDA`
 
-`Python` `JavaScript`
+### 📈 Data Visualization
+`Matplotlib` `Seaborn`
 
-### 📊 Data Science & Analytics
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
-</p>
-
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `EDA`
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL">
-</p>
-
+### 🗄️ Databases
 `SQL` `MySQL`
 
-### 🌐 Web Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" height="55" alt="HTML CSS React Node.js">
-</p>
-
-`HTML` `CSS` `React` `Node.js`
+### 🤖 Machine Learning
+`Scikit-Learn` `Supervised Learning` `Unsupervised Learning` `Model Evaluation`
 
 ### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="55" alt="Git GitHub VS Code">
-</p>
-
-`Git` `GitHub` `VS Code` `Anaconda`
+`Jupyter Notebook` `Anaconda` `Git` `GitHub` `VS Code`
 
 ---
 
-## 🧠 My Data Science Roadmap
+## 🧠 Data Science Roadmap
 
 ```text
 🐍 Python
-    ↓
+   ↓
 🔢 NumPy
-    ↓
+   ↓
 🐼 Pandas
-    ↓
-📊 Data Analysis
-    ↓
+   ↓
+🧹 Data Cleaning
+   ↓
+📊 Data Analysis & EDA
+   ↓
 📈 Data Visualization
-    ↓
+   ↓
 🗄️ SQL
-    ↓
+   ↓
 🤖 Machine Learning
-    ↓
-🧠 Data Science
+   ↓
+🧠 Advanced Data Science
 ```
 
 ---
@@ -123,10 +86,11 @@ I enjoy learning through practical coding, working with datasets, analyzing data
 
 | Technology | Focus |
 |---|---|
-| 🐍 Python | Programming & Problem Solving |
+| 🐍 Python | Programming & Data Science |
 | 🔢 NumPy | Numerical Computing |
 | 🐼 Pandas | Data Manipulation |
-| 📊 Data Analysis | Data Cleaning & EDA |
+| 🧹 Data Cleaning | Missing Values, Duplicates & Outliers |
+| 📊 Data Analysis | EDA & Insights |
 | 📈 Matplotlib | Data Visualization |
 | 🎨 Seaborn | Statistical Visualization |
 | 🗄️ SQL | Queries & Databases |
@@ -134,17 +98,17 @@ I enjoy learning through practical coding, working with datasets, analyzing data
 
 ---
 
-## 🔨 Projects & Practical Work
+## 🔨 Data Science Projects & Practice
 
 ### 🐍 Python Data Analysis
-
-Working with Python libraries and datasets for:
+Practical work with datasets covering:
 
 - Data Cleaning
 - Data Exploration
 - Exploratory Data Analysis
 - Data Visualization
-- Finding useful insights
+- Statistical analysis
+- Insight generation
 
 **Tools:** `Python` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
@@ -166,47 +130,39 @@ Insights
 
 **Tools:** `Python` `Pandas` `Matplotlib` `Seaborn`
 
-### 🤖 AI & Machine Learning Practice
+### 🤖 Machine Learning Practice
 
 Academic and practical learning covering:
 
-- Artificial Intelligence
-- Machine Learning Fundamentals
-- Data Preparation
-- Data Preprocessing
-- Supervised Learning
-- Unsupervised Learning
-- Data Analysis
-
----
-
-## 💡 My Learning Philosophy
-
-<div align="center">
-
-### Learn → Practice → Build → Analyze → Improve → Repeat 🚀
-
-</div>
+- Data preprocessing
+- Feature selection
+- Train-test split
+- Supervised learning
+- Unsupervised learning
+- Model evaluation
+- Machine learning fundamentals
 
 ---
 
 ## 📌 What You'll Find Here
 
 ```text
-🐍 Python Practice
-📊 Data Analysis
+🐍 Python
+🔢 NumPy
+🐼 Pandas
+🧹 Data Cleaning
+📊 Data Analysis & EDA
 📈 Data Visualization
-🧮 NumPy & Pandas
-🤖 AI & Machine Learning
-💻 Development Projects
-📚 Academic Work
+🗄️ SQL
+🤖 Machine Learning
+🧠 Data Science
 ```
 
 ---
 
 <div align="center">
 
-### 🚀 Keep Learning • Keep Building • Keep Growing
+### 📊 Learn → Analyze → Build → Improve
 
 ⭐ Thanks for visiting my profile!
 
