@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=UZair%20GHOLE&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20%7C%20BSc%20IT&descSize=20&descAlignY=62&color=0:0F172A,50:1D4ED8,100:06B6D4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&section=header&text=UZair%20GHOLE&fontSize=42&fontColor=ffffff&fontAlignY=50&color=0:111827,100:2563EB" width="100%"/>
 
 <br>
 
-# 👋 Hi, I'm **Uzair Ghole**
+### 👋 Uzair Ghole
 
-### 🎓 TY BSc IT Student
-### 📊 Aspiring Data Science Professional
+**TY BSc IT Student**  
+**Aspiring Data Science Professional**
 
-📍 **Maharashtra, India**
-
-<br>
-
-**Learning • Building • Growing**
+📍 Maharashtra, India
 
 </div>
