@@ -1,60 +1,55 @@
 # 👋 Hi, I'm Uzair Ghole
 
-### 🎓 TY BSc IT Student | 📊 Aspiring Data Science Professional
+### 🎓 TY BSc IT Student • 📊 Aspiring Data Science Professional
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Python+for+Data+Science;NumPy+%7C+Pandas;Data+Analysis+%7C+EDA;Matplotlib+%7C+Seaborn;SQL+%7C+Machine+Learning;Learning+%E2%80%A2+Building+%E2%80%A2+Analyzing" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=3776AB&center=true&vCenter=true&width=760&lines=Python+for+Data+Science;NumPy+%7C+Pandas+%7C+SQL;Data+Analysis+%7C+EDA;Matplotlib+%7C+Seaborn;Machine+Learning+Fundamentals;Learn+%E2%80%A2+Analyze+%E2%80%A2+Build" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql,sklearn" height="55" alt="Data Science Technologies">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **TY BSc IT student** focused on **Data Science, Python, Data Analysis, and Machine Learning**.
+I'm a **TY BSc IT student** focused on **Data Science, Python, Data Analysis, SQL, and Machine Learning**.
 
-I learn through practical coding, real datasets, exploratory data analysis, visualization, and machine learning fundamentals.
+I learn by working with real datasets, cleaning and exploring data, creating visualizations, and applying machine learning fundamentals.
 
 - 🐍 Python for Data Science
 - 🔢 NumPy for numerical computing
 - 🐼 Pandas for data manipulation
-- 📊 Data Cleaning & Exploratory Data Analysis
-- 📈 Matplotlib & Seaborn for visualization
+- 🧹 Data Cleaning & Exploratory Data Analysis
+- 📈 Matplotlib & Seaborn visualization
 - 🗄️ SQL & databases
 - 🤖 Machine Learning fundamentals
 
 ---
 
-## 🧰 Data Science Skills
+## 🧰 Tech Stack
 
-### 🐍 Programming
-`Python`
-
-### 📊 Data Analysis
-`NumPy` `Pandas` `Data Cleaning` `EDA`
-
-### 📈 Data Visualization
-`Matplotlib` `Seaborn`
-
-### 🗄️ Databases
-`SQL` `MySQL`
-
-### 🤖 Machine Learning
-`Scikit-Learn` `Supervised Learning` `Unsupervised Learning` `Model Evaluation`
-
-### 🛠️ Tools
-`Jupyter Notebook` `Anaconda` `Git` `GitHub` `VS Code`
+| Area | Technologies |
+|---|---|
+| 🐍 Programming | Python |
+| 📊 Data Analysis | NumPy • Pandas • Data Cleaning • EDA |
+| 📈 Visualization | Matplotlib • Seaborn |
+| 🗄️ Database | SQL • MySQL |
+| 🤖 Machine Learning | Scikit-Learn • Supervised Learning • Unsupervised Learning |
+| 🛠️ Tools | Excel • Jupyter • Anaconda • VS Code • Git • GitHub |
 
 ---
 
@@ -62,21 +57,21 @@ I learn through practical coding, real datasets, exploratory data analysis, visu
 
 ```text
 🐍 Python
-   ↓
+    ↓
 🔢 NumPy
-   ↓
+    ↓
 🐼 Pandas
-   ↓
+    ↓
 🧹 Data Cleaning
-   ↓
+    ↓
 📊 Data Analysis & EDA
-   ↓
+    ↓
 📈 Data Visualization
-   ↓
+    ↓
 🗄️ SQL
-   ↓
+    ↓
 🤖 Machine Learning
-   ↓
+    ↓
 🧠 Advanced Data Science
 ```
 
@@ -84,86 +79,64 @@ I learn through practical coding, real datasets, exploratory data analysis, visu
 
 ## 📚 Currently Learning
 
-| Technology | Focus |
-|---|---|
-| 🐍 Python | Programming & Data Science |
-| 🔢 NumPy | Numerical Computing |
-| 🐼 Pandas | Data Manipulation |
-| 🧹 Data Cleaning | Missing Values, Duplicates & Outliers |
-| 📊 Data Analysis | EDA & Insights |
-| 📈 Matplotlib | Data Visualization |
-| 🎨 Seaborn | Statistical Visualization |
-| 🗄️ SQL | Queries & Databases |
-| 🤖 Machine Learning | ML Fundamentals |
+- 🐍 Python — Programming & Data Science
+- 🔢 NumPy — Numerical Computing
+- 🐼 Pandas — Data Manipulation
+- 🧹 Data Cleaning — Missing Values, Duplicates & Outliers
+- 📊 Data Analysis — EDA & Insights
+- 📈 Matplotlib & Seaborn — Visualization
+- 🗄️ SQL — Queries & Databases
+- 🤖 Machine Learning — ML Fundamentals
 
 ---
 
-## 🔨 Data Science Projects & Practice
+## 🔨 Projects & Practice
 
 ### 🐍 Python Data Analysis
-Practical work with datasets covering:
+Practical work with datasets covering data cleaning, exploration, EDA, visualization, statistical analysis, and insight generation.
 
-- Data Cleaning
-- Data Exploration
-- Exploratory Data Analysis
-- Data Visualization
-- Statistical analysis
-- Insight generation
-
-**Tools:** `Python` `NumPy` `Pandas` `Matplotlib` `Seaborn`
+**Stack:** Python • NumPy • Pandas • Matplotlib • Seaborn
 
 ### 🛒 Retail Store Data Analysis
 
 ```text
-Raw Dataset
-     ↓
-Data Cleaning
-     ↓
-Data Exploration
-     ↓
-EDA
-     ↓
-Visualization
-     ↓
-Insights
+Raw Dataset → Data Cleaning → Exploration → EDA → Visualization → Insights
 ```
 
-**Tools:** `Python` `Pandas` `Matplotlib` `Seaborn`
+**Stack:** Python • Pandas • Matplotlib • Seaborn
 
 ### 🤖 Machine Learning Practice
+Academic and practical work covering preprocessing, feature selection, train-test split, supervised learning, unsupervised learning, and model evaluation.
 
-Academic and practical learning covering:
+**Stack:** Python • Pandas • NumPy • Scikit-Learn
 
-- Data preprocessing
-- Feature selection
-- Train-test split
-- Supervised learning
-- Unsupervised learning
-- Model evaluation
-- Machine learning fundamentals
+---
+
+## 🛠️ Tools I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
 
 ---
 
 ## 📌 What You'll Find Here
 
-```text
-🐍 Python
-🔢 NumPy
-🐼 Pandas
-🧹 Data Cleaning
-📊 Data Analysis & EDA
-📈 Data Visualization
-🗄️ SQL
-🤖 Machine Learning
-🧠 Data Science
-```
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Science" />
+  <img src="https://img.shields.io/badge/Data-Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Machine-Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+</p>
 
 <div align="center">
 
 ### 📊 Learn → Analyze → Build → Improve
 
-⭐ Thanks for visiting my profile!
+**Thanks for visiting my profile!**
 
 </div>
