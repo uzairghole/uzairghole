@@ -19,27 +19,20 @@
 ## 📊 My Data Science Progress
 
 <p align="center">
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[85,15],backgroundColor:['%233776AB','%23E5E7EB']} ]},options:{cutoutPercentage:72,plugins:{doughnutlabel:{labels:[{text:'85%25',font:{size:28}},{text:'Python',font:{size:14}}]}}}}" width="150" alt="Python 85%" />
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[80,20],backgroundColor:['%23150458','%23E5E7EB']} ]},options:{cutoutPercentage:72}}" width="150" alt="Pandas 80%" />
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[75,25],backgroundColor:['%23013243','%23E5E7EB']} ]},options:{cutoutPercentage:72}}" width="150" alt="NumPy 75%" />
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[70,30],backgroundColor:['%2311557C','%23E5E7EB']} ]},options:{cutoutPercentage:72}}" width="150" alt="Data Analysis 70%" />
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[50,50],backgroundColor:['%23F7931E','%23E5E7EB']} ]},options:{cutoutPercentage:72}}" width="150" alt="Machine Learning 50%" />
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','Pandas','NumPy','Data%20Analysis','Machine%20Learning'],datasets:[{data:[85,80,75,70,50]}]},options:{plugins:{legend:{position:'bottom'}}}}" width="520" alt="Data Science Progress Pie Chart" />
 </p>
 
-<p align="center"><b>🐍 Python 85% &nbsp; • &nbsp; 🐼 Pandas 80% &nbsp; • &nbsp; 🔢 NumPy 75% &nbsp; • &nbsp; 📊 Data Analysis 70% &nbsp; • &nbsp; 🤖 ML 50%</b></p>
+<p align="center"><b>🐍 Python 85% • 🐼 Pandas 80% • 🔢 NumPy 75% • 📊 Data Analysis 70% • 🤖 ML 50%</b></p>
 
 > Progress is an approximate self-assessment of my current learning level.
 
-## 🧠 What I Work With
+## 🧠 Data Science
 
 **Python** • **NumPy** • **Pandas** • **Data Cleaning** • **EDA** • **Matplotlib** • **Seaborn** • **SQL** • **Scikit-Learn**
 
 ## 🔨 Practice
 
-- 🛒 Retail Store Data Analysis
-- 📊 Data Cleaning & EDA
-- 🤖 Machine Learning Fundamentals
-- 📈 Data Visualization
+🛒 Retail Data Analysis • 📊 EDA • 🧹 Data Cleaning • 🤖 ML Fundamentals • 📈 Visualization
 
 ## 🛠️ Tools
 
