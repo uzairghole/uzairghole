@@ -14,6 +14,11 @@ I am focused on continuously learning, improving my technical knowledge, and dev
 
 To grow as a **Data Science Professional** by strengthening my knowledge, gaining practical experience, and working on meaningful data-driven projects.
 
+### 📫 Contact
+
+✉️ **Email:** [gholeuzair73@gmail.com](mailto:gholeuzair73@gmail.com)  
+🔗 **LinkedIn:** Add profile link
+
 ---
 
 *Learning • Building • Growing*
