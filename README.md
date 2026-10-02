@@ -1,8 +1,12 @@
-# 👋 Hi, I'm Uzair Ghole
+<div align="center">
 
-🎓 **TY BSc IT Student**  
-📊 **Aspiring Data Science Professional**
+# 👋 Hi, I'm **Uzair Ghole**
 
-📍 Maharashtra, India
+### 🎓 TY BSc IT Student
+### 📊 Aspiring Data Science Professional
 
-🎯 **Goal:** Build my career in Data Science
+📍 **Maharashtra, India**
+
+**Learning • Building • Growing**
+
+</div>
