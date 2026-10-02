@@ -17,7 +17,7 @@ To grow as a **Data Science Professional** by strengthening my knowledge, gainin
 ### 📫 Contact
 
 ✉️ **Email:** [gholeuzair73@gmail.com](mailto:gholeuzair73@gmail.com)  
-🔗 **LinkedIn:** Add profile link
+🔗 **LinkedIn:** [UZAIR GHOLE](https://www.linkedin.com/in/uzair-ghole-041427390/)
 
 ---
 
