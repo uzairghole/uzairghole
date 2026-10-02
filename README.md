@@ -1,19 +1,19 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=UZAIR%20GHOLE&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=TY%20BSc%20IT%20%7C%20Aspiring%20Data%20Science%20Professional&descSize=18&descAlignY=58&color=0:0F172A,50:1E3A8A,100:2563EB" width="100%"/>
 
-<br>
+## 👋 Hi, I'm UZAIR GHOLE
 
-<h2>👋 Hi, I'm UZAIR GHOLE</h2>
+🎓 **TY BSc IT Student**  
+📊 **Aspiring Data Science Professional**  
+📍 **Maharashtra, India**
 
-<p>
-🎓 <b>TY BSc IT Student</b><br>
-📊 <b>Aspiring Data Science Professional</b><br>
-📍 Maharashtra, India
-</p>
+I am currently pursuing my **Bachelor of Science in Information Technology (BSc IT)** and building my foundation toward a career in **Data Science**.
 
-<hr width="55%">
+I am focused on continuously learning, improving my technical knowledge, and developing practical skills through academic work and hands-on learning.
 
-<p><i>Learning • Building • Growing</i></p>
+### 🎯 Career Goal
 
-</div>
+To grow as a **Data Science Professional** by strengthening my knowledge, gaining practical experience, and working on meaningful data-driven projects.
+
+---
+
+*Learning • Building • Growing*
